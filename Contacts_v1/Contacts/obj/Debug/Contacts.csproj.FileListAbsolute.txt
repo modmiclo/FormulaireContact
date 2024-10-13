@@ -1,0 +1,53 @@
+G:\test\testVisualStudio2019\en attente\Contacts\Contacts\bin\Debug\Contacts.exe.config
+G:\test\testVisualStudio2019\en attente\Contacts\Contacts\bin\Debug\Contacts.exe
+G:\test\testVisualStudio2019\en attente\Contacts\Contacts\bin\Debug\Contacts.pdb
+G:\test\testVisualStudio2019\en attente\Contacts\Contacts\obj\Debug\Contacts.csprojAssemblyReference.cache
+G:\test\testVisualStudio2019\en attente\Contacts\Contacts\obj\Debug\Contacts.frmContacts.resources
+G:\test\testVisualStudio2019\en attente\Contacts\Contacts\obj\Debug\Contacts.Properties.Resources.resources
+G:\test\testVisualStudio2019\en attente\Contacts\Contacts\obj\Debug\Contacts.csproj.GenerateResource.cache
+G:\test\testVisualStudio2019\en attente\Contacts\Contacts\obj\Debug\Contacts.csproj.CoreCompileInputs.cache
+G:\test\testVisualStudio2019\en attente\Contacts\Contacts\obj\Debug\Contacts.exe
+G:\test\testVisualStudio2019\en attente\Contacts\Contacts\obj\Debug\Contacts.pdb
+G:\test\testVisualStudio2019\en attente\Contacts_v1\Contacts\bin\Debug\Contacts.exe.config
+G:\test\testVisualStudio2019\en attente\Contacts_v1\Contacts\bin\Debug\Contacts.exe
+G:\test\testVisualStudio2019\en attente\Contacts_v1\Contacts\bin\Debug\Contacts.pdb
+G:\test\testVisualStudio2019\en attente\Contacts_v1\Contacts\obj\Debug\Contacts.csprojAssemblyReference.cache
+G:\test\testVisualStudio2019\en attente\Contacts_v1\Contacts\obj\Debug\Contacts.frmContacts.resources
+G:\test\testVisualStudio2019\en attente\Contacts_v1\Contacts\obj\Debug\Contacts.Properties.Resources.resources
+G:\test\testVisualStudio2019\en attente\Contacts_v1\Contacts\obj\Debug\Contacts.csproj.GenerateResource.cache
+G:\test\testVisualStudio2019\en attente\Contacts_v1\Contacts\obj\Debug\Contacts.csproj.CoreCompileInputs.cache
+G:\test\testVisualStudio2019\en attente\Contacts_v1\Contacts\obj\Debug\Contacts.exe
+G:\test\testVisualStudio2019\en attente\Contacts_v1\Contacts\obj\Debug\Contacts.pdb
+G:\test\testVisualStudio2019\en attente\Contacts_v1 - Copie\Contacts\bin\Debug\Contacts.exe.config
+G:\test\testVisualStudio2019\en attente\Contacts_v1 - Copie\Contacts\bin\Debug\Contacts.exe
+G:\test\testVisualStudio2019\en attente\Contacts_v1 - Copie\Contacts\bin\Debug\Contacts.pdb
+G:\test\testVisualStudio2019\en attente\Contacts_v1 - Copie\Contacts\obj\Debug\Contacts.csprojAssemblyReference.cache
+G:\test\testVisualStudio2019\en attente\Contacts_v1 - Copie\Contacts\obj\Debug\Contacts.frmContacts.resources
+G:\test\testVisualStudio2019\en attente\Contacts_v1 - Copie\Contacts\obj\Debug\Contacts.Properties.Resources.resources
+G:\test\testVisualStudio2019\en attente\Contacts_v1 - Copie\Contacts\obj\Debug\Contacts.csproj.GenerateResource.cache
+G:\test\testVisualStudio2019\en attente\Contacts_v1 - Copie\Contacts\obj\Debug\Contacts.csproj.CoreCompileInputs.cache
+G:\test\testVisualStudio2019\en attente\Contacts_v1 - Copie\Contacts\obj\Debug\Contacts.exe
+G:\test\testVisualStudio2019\en attente\Contacts_v1 - Copie\Contacts\obj\Debug\Contacts.pdb
+G:\test\testVisualStudio2019\en attente\Contacts_v1\Contacts\bin\Debug\Contacts.xml
+G:\test\testVisualStudio2019\en attente\_Contacts\Contacts_v1\Contacts\bin\Debug\Contacts.exe.config
+G:\test\testVisualStudio2019\en attente\_Contacts\Contacts_v1\Contacts\bin\Debug\Contacts.xml
+G:\test\testVisualStudio2019\en attente\_Contacts\Contacts_v1\Contacts\bin\Debug\Contacts.exe
+G:\test\testVisualStudio2019\en attente\_Contacts\Contacts_v1\Contacts\bin\Debug\Contacts.pdb
+G:\test\testVisualStudio2019\en attente\_Contacts\Contacts_v1\Contacts\obj\Debug\Contacts.csprojAssemblyReference.cache
+G:\test\testVisualStudio2019\en attente\_Contacts\Contacts_v1\Contacts\obj\Debug\Contacts.frmContacts.resources
+G:\test\testVisualStudio2019\en attente\_Contacts\Contacts_v1\Contacts\obj\Debug\Contacts.Properties.Resources.resources
+G:\test\testVisualStudio2019\en attente\_Contacts\Contacts_v1\Contacts\obj\Debug\Contacts.csproj.GenerateResource.cache
+G:\test\testVisualStudio2019\en attente\_Contacts\Contacts_v1\Contacts\obj\Debug\Contacts.csproj.CoreCompileInputs.cache
+G:\test\testVisualStudio2019\en attente\_Contacts\Contacts_v1\Contacts\obj\Debug\Contacts.exe
+G:\test\testVisualStudio2019\en attente\_Contacts\Contacts_v1\Contacts\obj\Debug\Contacts.pdb
+C:\Users\mauda\Desktop\BTS1\Projets\B1.2–PARTIE1–SEQUENCE3\Seance1\Contacts_v1\Contacts\bin\Debug\Contacts.exe.config
+C:\Users\mauda\Desktop\BTS1\Projets\B1.2–PARTIE1–SEQUENCE3\Seance1\Contacts_v1\Contacts\bin\Debug\Contacts.xml
+C:\Users\mauda\Desktop\BTS1\Projets\B1.2–PARTIE1–SEQUENCE3\Seance1\Contacts_v1\Contacts\bin\Debug\Contacts.exe
+C:\Users\mauda\Desktop\BTS1\Projets\B1.2–PARTIE1–SEQUENCE3\Seance1\Contacts_v1\Contacts\bin\Debug\Contacts.pdb
+C:\Users\mauda\Desktop\BTS1\Projets\B1.2–PARTIE1–SEQUENCE3\Seance1\Contacts_v1\Contacts\obj\Debug\Contacts.csproj.AssemblyReference.cache
+C:\Users\mauda\Desktop\BTS1\Projets\B1.2–PARTIE1–SEQUENCE3\Seance1\Contacts_v1\Contacts\obj\Debug\Contacts.frmContacts.resources
+C:\Users\mauda\Desktop\BTS1\Projets\B1.2–PARTIE1–SEQUENCE3\Seance1\Contacts_v1\Contacts\obj\Debug\Contacts.Properties.Resources.resources
+C:\Users\mauda\Desktop\BTS1\Projets\B1.2–PARTIE1–SEQUENCE3\Seance1\Contacts_v1\Contacts\obj\Debug\Contacts.csproj.GenerateResource.cache
+C:\Users\mauda\Desktop\BTS1\Projets\B1.2–PARTIE1–SEQUENCE3\Seance1\Contacts_v1\Contacts\obj\Debug\Contacts.csproj.CoreCompileInputs.cache
+C:\Users\mauda\Desktop\BTS1\Projets\B1.2–PARTIE1–SEQUENCE3\Seance1\Contacts_v1\Contacts\obj\Debug\Contacts.exe
+C:\Users\mauda\Desktop\BTS1\Projets\B1.2–PARTIE1–SEQUENCE3\Seance1\Contacts_v1\Contacts\obj\Debug\Contacts.pdb
